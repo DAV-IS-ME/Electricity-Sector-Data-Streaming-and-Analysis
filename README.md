@@ -1,4 +1,4 @@
-# Electricity-Sector-Data-Streaming-and-Analysis
+# Electricity-Sector-Data-Dashboard
 ## Data Acquisition
 * Automatically retrieves facility metadata (facility code, name, region, unit code, latitude, and longitude) along with 5-minute interval time-series measurements (power generation, CO2 emissions, market price, and demand) from the OpenElectricity platform.
 ## Data Processing & Aggregation
